@@ -1,0 +1,6 @@
+BACKGROUND
+Ear_protector
+Hard_hat
+Humans
+Vest
+Visor

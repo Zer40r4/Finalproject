@@ -1,14 +1,14 @@
 from PIL import Image
 import os
 
-input_folder = "/home/nvidia/Finalproject/Images/Visors" # Folder with your original pictures
-output_folder = "isor_resized"
+input_folder = "/home/nvidia/Finalproject/test_img" # Folder with your original pictures
+output_folder = "test_img_renamed"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 image_extensions = ['.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff', '.jfif']
 
-counter = 1000
+counter = 10000
 
 
 for filename in os.listdir(input_folder):
@@ -21,7 +21,7 @@ for filename in os.listdir(input_folder):
             img = img.convert('RGB')
 
 
-            resized_img = img.resize((512, 512))
+            #resized_img = img.resize((512, 512))
 
 
             _, ext = os.path.splitext(filename)

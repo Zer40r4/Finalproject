@@ -1,13 +1,13 @@
 <annotation>
 	<folder></folder>
-	<filename>021_png.rf.a74bb4a170cdeff87c747fd58982af84.jpg</filename>
-	<path>021_png.rf.a74bb4a170cdeff87c747fd58982af84.jpg</path>
+	<filename>022_png.rf.52213824debae8a4de5fe877c02fac6a.jpg</filename>
+	<path>022_png.rf.52213824debae8a4de5fe877c02fac6a.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
 	<size>
-		<width>462</width>
-		<height>462</height>
+		<width>512</width>
+		<height>512</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,10 +18,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>382</xmin>
-			<xmax>446</xmax>
-			<ymin>70</ymin>
-			<ymax>306</ymax>
+			<xmin>137</xmin>
+			<xmax>319</xmax>
+			<ymin>61</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<metadata>

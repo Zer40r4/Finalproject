@@ -1,13 +1,13 @@
 <annotation>
 	<folder></folder>
-	<filename>002_jpg.rf.7b7f97dd1d815547b22f2a3d9b345eb8.jpg</filename>
-	<path>002_jpg.rf.7b7f97dd1d815547b22f2a3d9b345eb8.jpg</path>
+	<filename>074_jpg.rf.1d55de84d2567cf0357f852514f271a2.jpg</filename>
+	<path>074_jpg.rf.1d55de84d2567cf0357f852514f271a2.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
 	<size>
-		<width>498</width>
-		<height>498</height>
+		<width>512</width>
+		<height>512</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,10 +18,36 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>131</xmin>
-			<xmax>294</xmax>
-			<ymin>404</ymin>
-			<ymax>499</ymax>
+			<xmin>79</xmin>
+			<xmax>211</xmax>
+			<ymin>11</ymin>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>271</xmin>
+			<xmax>374</xmax>
+			<ymin>81</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>511</xmax>
+			<ymin>2</ymin>
+			<ymax>137</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,10 +57,75 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>121</xmin>
-			<xmax>204</xmax>
-			<ymin>327</ymin>
-			<ymax>401</ymax>
+			<xmin>97</xmin>
+			<xmax>155</xmax>
+			<ymin>78</ymin>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>267</xmin>
+			<xmax>357</xmax>
+			<ymin>156</ymin>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>366</xmin>
+			<xmax>462</xmax>
+			<ymin>77</ymin>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>220</xmax>
+			<ymin>191</ymin>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>357</xmax>
+			<ymin>265</ymin>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>382</xmin>
+			<xmax>513</xmax>
+			<ymin>169</ymin>
+			<ymax>487</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,10 +135,36 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>18</xmin>
-			<xmax>393</xmax>
-			<ymin>1</ymin>
-			<ymax>402</ymax>
+			<xmin>39</xmin>
+			<xmax>231</xmax>
+			<ymin>133</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>235</xmin>
+			<xmax>381</xmax>
+			<ymin>179</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>374</xmin>
+			<xmax>513</xmax>
+			<ymin>134</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<metadata>

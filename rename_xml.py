@@ -2,8 +2,8 @@ from PIL import Image
 import os
 import shutil
 
-input_folder = "/home/nvidia/Finalproject/val_xml" # Folder with your original pictures
-output_folder = "val_xml_renamed"
+input_folder = "/home/nvidia/Finalproject/test_xml" # Folder with your original pictures
+output_folder = "test_xml_renamed"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 

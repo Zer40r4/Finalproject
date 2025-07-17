@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>070_jpg.rf.94da15c7c7995c26bb94157f6f6806f5.jpg</filename>
-	<path>070_jpg.rf.94da15c7c7995c26bb94157f6f6806f5.jpg</path>
+	<filename>001_png.rf.be3fceab0142df5c42b79e07ab9e0623.jpg</filename>
+	<path>001_png.rf.be3fceab0142df5c42b79e07ab9e0623.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -12,94 +12,16 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Hard_hat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>50</xmin>
-			<xmax>226</xmax>
-			<ymin>115</ymin>
-			<ymax>321</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Hard_hat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>209</xmin>
-			<xmax>478</xmax>
-			<ymin>1</ymin>
-			<ymax>131</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Visor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>234</xmin>
-			<xmax>393</xmax>
-			<ymin>118</ymin>
-			<ymax>209</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Vest</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>229</xmin>
-			<xmax>512</xmax>
-			<ymin>253</ymin>
-			<ymax>513</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Vest</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>52</xmin>
-			<xmax>281</xmax>
-			<ymin>342</ymin>
-			<ymax>512</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Humans</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>240</xmin>
-			<xmax>513</xmax>
-			<ymin>213</ymin>
-			<ymax>513</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Humans</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>64</xmin>
-			<xmax>270</xmax>
-			<ymin>321</ymin>
-			<ymax>513</ymax>
+			<xmin>136</xmin>
+			<xmax>294</xmax>
+			<ymin>7</ymin>
+			<ymax>491</ymax>
 		</bndbox>
 	</object>
 	<metadata>

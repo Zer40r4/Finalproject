@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>074_jpg.rf.1d55de84d2567cf0357f852514f271a2.jpg</filename>
-	<path>074_jpg.rf.1d55de84d2567cf0357f852514f271a2.jpg</path>
+	<filename>059_jpg.rf.c8b0483869e3ed51e874744619b9c519.jpg</filename>
+	<path>059_jpg.rf.c8b0483869e3ed51e874744619b9c519.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -18,10 +18,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>79</xmin>
-			<xmax>211</xmax>
+			<xmin>26</xmin>
+			<xmax>163</xmax>
 			<ymin>11</ymin>
-			<ymax>159</ymax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,10 +31,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>271</xmin>
-			<xmax>374</xmax>
-			<ymin>81</ymin>
-			<ymax>231</ymax>
+			<xmin>187</xmin>
+			<xmax>332</xmax>
+			<ymin>1</ymin>
+			<ymax>114</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,49 +44,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>369</xmin>
-			<xmax>511</xmax>
-			<ymin>2</ymin>
-			<ymax>137</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Visor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>97</xmin>
-			<xmax>155</xmax>
-			<ymin>78</ymin>
-			<ymax>128</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Visor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>267</xmin>
-			<xmax>357</xmax>
-			<ymin>156</ymin>
-			<ymax>194</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Visor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>366</xmin>
-			<xmax>462</xmax>
-			<ymin>77</ymin>
-			<ymax>120</ymax>
+			<xmin>355</xmin>
+			<xmax>505</xmax>
+			<ymin>3</ymin>
+			<ymax>118</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -96,10 +57,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>42</xmin>
-			<xmax>220</xmax>
-			<ymin>191</ymin>
-			<ymax>509</ymax>
+			<xmin>1</xmin>
+			<xmax>133</xmax>
+			<ymin>239</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -109,10 +70,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>252</xmin>
-			<xmax>357</xmax>
-			<ymin>265</ymin>
-			<ymax>496</ymax>
+			<xmin>143</xmin>
+			<xmax>284</xmax>
+			<ymin>184</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -122,10 +83,36 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>382</xmin>
+			<xmin>331</xmin>
 			<xmax>513</xmax>
-			<ymin>169</ymin>
-			<ymax>487</ymax>
+			<ymin>198</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ear_protector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>142</xmax>
+			<ymin>230</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ear_protector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>335</xmax>
+			<ymin>188</ymin>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -135,9 +122,9 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>39</xmin>
-			<xmax>231</xmax>
-			<ymin>133</ymin>
+			<xmin>3</xmin>
+			<xmax>167</xmax>
+			<ymin>138</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>
@@ -148,9 +135,9 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>235</xmin>
-			<xmax>381</xmax>
-			<ymin>179</ymin>
+			<xmin>171</xmin>
+			<xmax>348</xmax>
+			<ymin>111</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>
@@ -161,9 +148,9 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>374</xmin>
+			<xmin>338</xmin>
 			<xmax>513</xmax>
-			<ymin>134</ymin>
+			<ymin>126</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>

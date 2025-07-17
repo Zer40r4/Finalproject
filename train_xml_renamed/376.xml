@@ -1,13 +1,13 @@
 <annotation>
 	<folder></folder>
-	<filename>069_jpg.rf.994e10c5760fe7ff22a25cb484262ce6.jpg</filename>
-	<path>069_jpg.rf.994e10c5760fe7ff22a25cb484262ce6.jpg</path>
+	<filename>068_jpg.rf.ad109b7f074fefc1c40e0fd03d7fe266.jpg</filename>
+	<path>068_jpg.rf.ad109b7f074fefc1c40e0fd03d7fe266.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
 	<size>
-		<width>462</width>
-		<height>462</height>
+		<width>512</width>
+		<height>512</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,9 +19,9 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>157</xmin>
-			<xmax>342</xmax>
-			<ymin>53</ymin>
-			<ymax>181</ymax>
+			<xmax>422</xmax>
+			<ymin>1</ymin>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,10 +31,23 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>190</xmin>
-			<xmax>317</xmax>
-			<ymin>174</ymin>
-			<ymax>242</ymax>
+			<xmin>202</xmin>
+			<xmax>374</xmax>
+			<ymin>170</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>407</xmax>
+			<ymin>129</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,10 +57,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>63</xmin>
-			<xmax>435</xmax>
-			<ymin>160</ymin>
-			<ymax>463</ymax>
+			<xmin>46</xmin>
+			<xmax>507</xmax>
+			<ymin>232</ymin>
+			<ymax>512</ymax>
 		</bndbox>
 	</object>
 	<metadata>

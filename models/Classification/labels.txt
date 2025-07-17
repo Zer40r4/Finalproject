@@ -1,0 +1,3 @@
+Not_safe
+Safe
+Vest

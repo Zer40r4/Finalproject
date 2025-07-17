@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>160_png.rf.c010a6261a2f07a07c6924996971e788.jpg</filename>
-	<path>160_png.rf.c010a6261a2f07a07c6924996971e788.jpg</path>
+	<filename>041_png.rf.a5bb4429117a2a94898034eea0fd0a24.jpg</filename>
+	<path>041_png.rf.a5bb4429117a2a94898034eea0fd0a24.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -18,23 +18,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>278</xmin>
-			<xmax>410</xmax>
-			<ymin>183</ymin>
-			<ymax>407</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Humans</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>245</xmin>
-			<xmax>410</xmax>
-			<ymin>181</ymin>
-			<ymax>385</ymax>
+			<xmin>100</xmin>
+			<xmax>181</xmax>
+			<ymin>279</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<metadata>

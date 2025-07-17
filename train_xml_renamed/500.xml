@@ -1,13 +1,13 @@
 <annotation>
 	<folder></folder>
-	<filename>067_jpg.rf.068fc5d68517d8b676a0fdcb5b17dd18.jpg</filename>
-	<path>067_jpg.rf.068fc5d68517d8b676a0fdcb5b17dd18.jpg</path>
+	<filename>110_jpg.rf.576804567723d3f0db068e4da96a1cc0.jpg</filename>
+	<path>110_jpg.rf.576804567723d3f0db068e4da96a1cc0.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
 	<size>
-		<width>482</width>
-		<height>482</height>
+		<width>512</width>
+		<height>512</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,23 +18,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>136</xmin>
-			<xmax>359</xmax>
-			<ymin>98</ymin>
-			<ymax>235</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Visor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>150</xmin>
-			<xmax>389</xmax>
-			<ymin>1</ymin>
-			<ymax>237</ymax>
+			<xmin>242</xmin>
+			<xmax>419</xmax>
+			<ymin>9</ymin>
+			<ymax>144</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -45,9 +32,9 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>417</xmax>
-			<ymin>231</ymin>
-			<ymax>483</ymax>
+			<xmax>513</xmax>
+			<ymin>140</ymin>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
 	<metadata>

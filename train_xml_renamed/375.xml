@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>065_jpg.rf.086d3a7c6678de2579d9c22878b5dfc5.jpg</filename>
-	<path>065_jpg.rf.086d3a7c6678de2579d9c22878b5dfc5.jpg</path>
+	<filename>021_jpg.rf.f5b0eb78c05dd3bd425288b0b5daa9be.jpg</filename>
+	<path>021_jpg.rf.f5b0eb78c05dd3bd425288b0b5daa9be.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -18,23 +18,49 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>172</xmin>
-			<xmax>348</xmax>
-			<ymin>16</ymin>
-			<ymax>152</ymax>
+			<xmin>428</xmin>
+			<xmax>513</xmax>
+			<ymin>188</ymin>
+			<ymax>342</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Visor</name>
+		<name>Hard_hat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>203</xmin>
-			<xmax>313</xmax>
-			<ymin>157</ymin>
-			<ymax>217</ymax>
+			<xmin>338</xmin>
+			<xmax>441</xmax>
+			<ymin>163</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>341</xmax>
+			<ymin>123</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>250</xmax>
+			<ymin>73</ymin>
+			<ymax>233</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,9 +70,74 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>159</xmin>
-			<xmax>422</xmax>
-			<ymin>325</ymin>
+			<xmin>139</xmin>
+			<xmax>450</xmax>
+			<ymin>422</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>434</xmin>
+			<xmax>513</xmax>
+			<ymin>411</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>244</xmax>
+			<ymin>324</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>354</xmin>
+			<xmax>449</xmax>
+			<ymin>343</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>194</xmax>
+			<ymin>206</ymin>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>87</xmin>
+			<xmax>227</xmax>
+			<ymin>234</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>
@@ -57,9 +148,35 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>114</xmin>
-			<xmax>498</xmax>
-			<ymin>201</ymin>
+			<xmin>143</xmin>
+			<xmax>403</xmax>
+			<ymin>291</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>342</xmin>
+			<xmax>477</xmax>
+			<ymin>283</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>513</xmax>
+			<ymin>319</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>005_png.rf.2f3bea1ac0dcdd027f236015fb19fe81.jpg</filename>
+	<path>005_png.rf.2f3bea1ac0dcdd027f236015fb19fe81.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>330</xmin>
+			<xmax>433</xmax>
+			<ymin>1</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

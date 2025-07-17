@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>456_png.rf.8b060e1800f14a512a0aea139e98c2de.jpg</filename>
-	<path>456_png.rf.8b060e1800f14a512a0aea139e98c2de.jpg</path>
+	<filename>053_jpg.rf.d425480730ee74bcbdf03f55469dd96a.jpg</filename>
+	<path>053_jpg.rf.d425480730ee74bcbdf03f55469dd96a.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -12,16 +12,42 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>Visor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>313</xmax>
+			<ymin>77</ymin>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>337</xmax>
+			<ymin>5</ymin>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>Humans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>236</xmin>
-			<xmax>344</xmax>
-			<ymin>202</ymin>
-			<ymax>437</ymax>
+			<xmin>126</xmin>
+			<xmax>509</xmax>
+			<ymin>83</ymin>
+			<ymax>454</ymax>
 		</bndbox>
 	</object>
 	<metadata>

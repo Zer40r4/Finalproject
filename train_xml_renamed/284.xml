@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>068_jpg.rf.ad109b7f074fefc1c40e0fd03d7fe266.jpg</filename>
-	<path>068_jpg.rf.ad109b7f074fefc1c40e0fd03d7fe266.jpg</path>
+	<filename>094_jpg.rf.79c068fb71c87a5b1e9f60ae2e0130da.jpg</filename>
+	<path>094_jpg.rf.79c068fb71c87a5b1e9f60ae2e0130da.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -18,35 +18,61 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>157</xmin>
-			<xmax>422</xmax>
-			<ymin>1</ymin>
-			<ymax>188</ymax>
+			<xmin>155</xmin>
+			<xmax>253</xmax>
+			<ymin>109</ymin>
+			<ymax>196</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Visor</name>
+		<name>Hard_hat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>202</xmin>
-			<xmax>374</xmax>
-			<ymin>170</ymin>
-			<ymax>232</ymax>
+			<xmin>274</xmin>
+			<xmax>356</xmax>
+			<ymin>128</ymin>
+			<ymax>200</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Visor</name>
+		<name>Vest</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>113</xmin>
-			<xmax>407</xmax>
-			<ymin>129</ymin>
+			<xmin>115</xmin>
+			<xmax>244</xmax>
+			<ymin>211</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>368</xmax>
+			<ymin>215</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>127</xmin>
+			<xmax>255</xmax>
+			<ymin>166</ymin>
 			<ymax>513</ymax>
 		</bndbox>
 	</object>
@@ -57,10 +83,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>46</xmin>
-			<xmax>507</xmax>
-			<ymin>232</ymin>
-			<ymax>512</ymax>
+			<xmin>261</xmin>
+			<xmax>376</xmax>
+			<ymin>176</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<metadata>

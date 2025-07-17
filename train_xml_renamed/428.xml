@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>185_png.rf.4022457fa699da858730cc4ac9637941.jpg</filename>
-	<path>185_png.rf.4022457fa699da858730cc4ac9637941.jpg</path>
+	<filename>027_jpg.rf.3f6b0067be4398492aef2763bc360dad.jpg</filename>
+	<path>027_jpg.rf.3f6b0067be4398492aef2763bc360dad.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -12,16 +12,29 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>433</xmax>
+			<ymin>61</ymin>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>Humans</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>298</xmin>
-			<xmax>437</xmax>
-			<ymin>141</ymin>
-			<ymax>289</ymax>
+			<xmin>17</xmin>
+			<xmax>481</xmax>
+			<ymin>1</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<metadata>

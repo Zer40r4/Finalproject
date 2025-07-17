@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>510_png.rf.c2e497fd479d9d0a3eca583a8108ae8d.jpg</filename>
-	<path>510_png.rf.c2e497fd479d9d0a3eca583a8108ae8d.jpg</path>
+	<filename>015_png.rf.ec2623a7d7efb9bb89082a44dd032301.jpg</filename>
+	<path>015_png.rf.ec2623a7d7efb9bb89082a44dd032301.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -18,10 +18,49 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
+			<xmin>149</xmin>
+			<xmax>261</xmax>
+			<ymin>295</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>180</xmax>
+			<ymin>193</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>210</xmax>
+			<ymin>249</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Humans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
 			<xmin>196</xmin>
-			<xmax>244</xmax>
-			<ymin>43</ymin>
-			<ymax>135</ymax>
+			<xmax>248</xmax>
+			<ymin>272</ymin>
+			<ymax>316</ymax>
 		</bndbox>
 	</object>
 	<metadata>
