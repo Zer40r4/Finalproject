@@ -9,7 +9,7 @@ The code depends on how many  "Hard_hats" and "Humans" are mentioned in the imag
 
 Running this project
 
-1.Install - pytorch 2.1.0, torchvision 0.16.0, numpy 2.13.0, ultralytics and roboflow
+  1.Install - pytorch 2.1.0, torchvision 0.16.0, numpy 2.13.0, ultralytics and roboflow
   2.The user must first run the code - Safety check that can be navigated to through:
   /home/nvidia/Finalproject/Safety-checker.py
   3.The user must declare that they would like to use image detection by entering the number "1".
