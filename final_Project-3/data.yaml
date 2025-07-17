@@ -1,0 +1,16 @@
+names:
+- Ear_protector
+- Hard_hat
+- Humans
+- Vest
+- Visor
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: final_project-nhtdz
+  url: https://universe.roboflow.com/zer40r4/final_project-nhtdz/dataset/3
+  version: 3
+  workspace: zer40r4
+test: ../test/images
+train: ../train/images
+val: ../valid/images
