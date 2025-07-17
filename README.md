@@ -18,3 +18,4 @@ Running this project
 -- The codes output will then show the annotations made and decide whether the worker is safe based on the number of "Hard_hats" and "Humans" present
 
 Video  - https://drive.google.com/file/d/1A8efCUqFDeuJZ0mgq_GJusR36Qc1Lqce/view?usp=sharin
+Document - https://docs.google.com/document/d/1XoENdbjhRbJiIEfQJdH_ypSvIksPv7wqNpN3oY4UTGs/edit?usp=sharing
